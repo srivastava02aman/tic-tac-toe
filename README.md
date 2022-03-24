@@ -1,4 +1,4 @@
-******CHECK IF AND ELSE PART..*****
+CHECK IF AND ELSE PART..
 
 # Getting Started with Create React App
 
