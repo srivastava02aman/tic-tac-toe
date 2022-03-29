@@ -23,6 +23,9 @@ const winner = checkWinner();
 if(winner){
   alert(`Congrats! ${winner} won the game!`)
   updateGameState(intitalState)
+}else {
+    alert("Match drow!")
+    updateGameState(intitalState)
 }
 },[gameState])
 
